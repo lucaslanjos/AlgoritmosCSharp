@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Globalization;
-namespace ConsoleApplication2
+namespace SaidaDeDados
 {
-    class SaidaDeDados
+    class Program
     {
         static void Main(string[] args)
         {
