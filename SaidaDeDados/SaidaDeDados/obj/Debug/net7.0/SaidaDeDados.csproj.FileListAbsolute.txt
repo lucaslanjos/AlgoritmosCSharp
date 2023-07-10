@@ -1,0 +1,5 @@
+C:\Users\lucas\OneDrive\Documents\Aula C# - Algoritomos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Aula C# - Algoritomos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Aula C# - Algoritomos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Aula C# - Algoritomos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Aula C# - Algoritomos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.csproj.CoreCompileInputs.cache
